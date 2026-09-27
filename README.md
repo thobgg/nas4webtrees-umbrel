@@ -8,4 +8,7 @@ wtTux and wtAnd apps.
 `https://github.com/thobgg/nas4webtrees-umbrel` → *Add* → open the store → *nas4webtrees* → *Install*.
 Then open the app and fill in the setup page.
 
+**Always current:** every new nas4webtrees release updates this store automatically, so umbrelOS offers
+the update by itself.
+
 Community project, not an official part of webtrees or Umbrel.
