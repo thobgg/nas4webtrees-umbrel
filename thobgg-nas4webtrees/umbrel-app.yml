@@ -1,0 +1,36 @@
+manifestVersion: 1
+id: thobgg-nas4webtrees
+name: nas4webtrees
+tagline: Your family tree online – the original webtrees, with apps for PC and phone
+icon: https://raw.githubusercontent.com/thobgg/nas4webtrees/main/docs/icon-256.png
+category: files
+version: "2.2.6-7"
+port: 8095
+description: >-
+  The original, unmodified webtrees – online genealogy for your family tree – with SQLite, so no
+  database server is needed.
+
+
+  After installing, open the app and fill in the short setup page: name of the family tree and your
+  account. The family tree is private by default; you create accounts for your relatives in webtrees.
+
+
+  api4webtrees is preinstalled: the wtWin (Windows), wtTux (Linux) and wtAnd (Android) apps connect
+  with one click from the page "App" in webtrees. Every night each family tree is backed up as a
+  GEDCOM file, together with the database and photos. webtrees updates itself from its own control panel.
+
+
+  Community project, not an official part of webtrees.
+developer: webtrees / nas4webtrees
+website: https://github.com/thobgg/nas4webtrees
+submitter: thobgg
+submission: https://github.com/thobgg/nas4webtrees
+repo: https://github.com/thobgg/nas4webtrees
+support: https://github.com/thobgg/nas4webtrees/issues
+gallery: []
+releaseNotes: >-
+  Setup in the browser: a short page instead of the webtrees setup wizard.
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""
