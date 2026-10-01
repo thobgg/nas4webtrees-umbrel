@@ -4,7 +4,7 @@ name: nas4webtrees
 tagline: Your family tree online – the original webtrees, with apps for PC and phone
 icon: https://raw.githubusercontent.com/thobgg/nas4webtrees/main/docs/icon-256.png
 category: files
-version: "2.2.6-7"
+version: "2.2.6-8"
 port: 8095
 description: >-
   The original, unmodified webtrees – online genealogy for your family tree – with SQLite, so no
@@ -29,7 +29,7 @@ repo: https://github.com/thobgg/nas4webtrees
 support: https://github.com/thobgg/nas4webtrees/issues
 gallery: []
 releaseNotes: >-
-  nas4webtrees 2.2.6-7. What's new: https://github.com/thobgg/nas4webtrees/blob/main/CHANGES.md
+  nas4webtrees 2.2.6-8. What's new: https://github.com/thobgg/nas4webtrees/blob/main/CHANGES.md
 dependencies: []
 path: ""
 defaultUsername: ""
